@@ -1,0 +1,98 @@
+header {
+
+    background-color: #C3FF93;
+    width:100vw;
+    height:4.5vw;
+    margin-top: -.5rem;
+    margin-left: -.5rem;
+
+}
+nav {
+    display: flex;
+    justify-content: flex-end;
+}
+nav button {
+
+    margin:1rem;
+    width:5rem;
+    height:3rem;
+    background: none;
+    border: none;
+    font-size: 20px;
+    color: #3B4133;
+}
+.order{
+
+    width:6rem;
+    background-color: #313429;
+    color: #CAB497;
+    border-radius: .5rem;
+
+}
+#title-slogan-container{
+
+
+    background-image: url("assets/doughnut.jpg");
+    background-repeat: no-repeat;
+    background-size:100vw 40vw;
+    filter:blur(4px);
+    width:100vw;
+    height:25vw;
+    margin-left:-.5rem;
+
+}
+h1 {
+    position: absolute;
+    color: #EDE2E7 ;
+    top:15vw;
+    left:40vw;
+
+
+}
+#description {
+
+    margin-left: -.5rem;
+    margin-top: -1.5rem;
+    background-color: #FFAF61;
+    width:100vw;
+    height:18.3vw;    
+}
+h2, p {
+
+    padding-top:2rem;
+    color: #F6FFE7;
+    text-align: center;
+
+}
+p {
+    text-align: center;
+    font-size: x-large;
+    max-width:30vw;
+    margin:0 auto;
+
+}
+#container-container{
+
+    display: flex;
+    justify-content: space-around;
+    margin-top: 2vw;
+
+}
+.donut-type,#contact-container{
+
+    background-color: #FF70AB;
+    padding:2rem;
+    padding-top:1rem;
+    border-radius: 2rem;
+    min-width:15vw;
+    max-width:15vw;
+
+
+}
+#contact-container {
+
+    display:block;
+    margin:0 auto;
+    margin-top:2vw;
+
+}
